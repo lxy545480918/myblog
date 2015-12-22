@@ -39,7 +39,7 @@ relative_link: false
 future: true
 highlight:
   enable: true
-  line_number: true
+  line_number: false # 是否显示代码的行号
   auto_detect: true
   tab_replace:
 
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: pacman
+theme: pacman # 更换主题
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
