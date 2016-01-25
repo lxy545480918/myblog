@@ -1,8 +1,8 @@
 title: 一些学习的网站(持续更新)
 date: 2016-01-11 14:14:37
 toc: false
-categories: 分享
-tags: [分享]
+categories: 收藏
+tags: [收藏]
 ---
 
 ## JAVA相关
